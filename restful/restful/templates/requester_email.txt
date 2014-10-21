@@ -1,0 +1,6 @@
+Dear {{ last_name }},
+
+We have received your application. Please do NOT reply this email.
+
+Thanks,
+Tech Team
