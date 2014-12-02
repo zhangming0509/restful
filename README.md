@@ -12,6 +12,7 @@ sender and a dedicated email account immediately.
 * Python (2.6.5+, 2.7)
 * Django (1.4.2+, 1.5, 1.6, 1.7)
 * Django REST framework
+
 You can use pip to install Django REST framework like this:
 
     $ pip install djangorestframework
