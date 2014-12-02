@@ -51,8 +51,8 @@ Then drag the page to the bottom, fill in the form with the data below:
 
   Media type : application/json
 
-  content : {
-
+  content : 
+    {
         "email": "tester@test.com",
         "first_name": "Peter",
         "last_name": "Pan",
@@ -60,7 +60,6 @@ Then drag the page to the bottom, fill in the form with the data below:
         "title": "Request Title",
         "content": "Request Content",
         "link": "https://github.com"
-
     }
 Then click the post button to send the request. You can also post
 request with the tool curl
